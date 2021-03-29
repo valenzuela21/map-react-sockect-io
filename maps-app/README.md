@@ -1,5 +1,5 @@
 # Map Frontend React.js
-![map-react-socket](https://raw.githubusercontent.com/valenzuela21/map-react-sockect-io/main/maps-app/preview_map.pngg)
+![map-react-socket](https://raw.githubusercontent.com/valenzuela21/map-react-sockect-io/main/maps-app/preview_map.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
